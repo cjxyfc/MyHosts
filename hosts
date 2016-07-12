@@ -3,6 +3,10 @@
 255.255.255.255	broadcasthost
 ::1	localhost
 fe80::1%lo0	localhost
+192.168.2.1 router.asus.com
+192.168.2.1 www.asusnetwork.net
+192.168.2.1 www.asusrouter.com
+192.168.2.1 R6300V2-F2A7. R6300V2-F2A7
 
 # Modified hosts start
 
